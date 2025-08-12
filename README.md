@@ -14,3 +14,7 @@
 ![Static Badge](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react)
 ![Static Badge](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git)
+
+![Hexlet certificate](public/chuvikovskii_dmitrii_js_ru_w500.png)
+
+![Hexlet certificate](public/chuvikovskii_dmitrii_js_en_w500.png)
